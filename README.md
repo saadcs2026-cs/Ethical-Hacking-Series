@@ -1,37 +1,26 @@
-# Linux-Basics
-🐧 My Linux basics learning journey — commands, notes &amp; examples as I work toward a cybersecurity career.
-# 🐧 Linux Basics — Learning Notes
+# Python CyberSecurity Scripts 🛡️
 
-A personal documentation of my Linux learning journey 
-as I work toward becoming an ethical hacker.
+Beginner friendly Python scripts
+for learning cybersecurity concepts.
 
-## 📚 What's Inside
-- Basic Linux commands
-- File & directory management
-- User permissions & sudo
-- Process management
-- Networking & nmap basics
+All scripts are educational only!
 
-## 🛠️ Tools Used
-- Ubuntu Linux
-- Google Cloud Shell
-- Nmap
+## Scripts
+### Password Tools
+- Password Checker
+- Password Strength Checker
+- Password Generator
 
-## 🎯 Goal
-Building foundations for a cybersecurity / 
-ethical hacking career.
+### Encryption
+- Caesar Cipher
 
-## 📅 Progress
-- [x] Day 1 — Linux basics
-- [ ] Day 2 — Networking basics
-- [ ] Day 3 — Python basics
-- [ ] Day 4 — TryHackMe labs
+### Network Tools
+- Port Scanner
 
-## 🔗 Resources I'm Using
-- Professor Messer Network+ (YouTube)
-- TryHackMe
-- PortSwigger Web Academy
+## Disclaimer
+These scripts are for educational
+purposes only. Use responsibly!
 
----
-> "The quieter you become, the more you can hear." 
-> — Kali Linux motto
+## Author
+Saad — @code.shield_
+github.com/saadcs2026-cs
