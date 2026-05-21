@@ -77,19 +77,7 @@ the Python for Hacking phase:
 
 ---
 
-## 📖 How to Use This Repo
 
-Each episode has its own notes file.
-Read them alongside the Instagram posts
-for the best learning experience!
-Phase-1-Foundations/
-├── EP1-What-is-Ethical-Hacking.md
-├── EP2-Types-of-Hackers.md
-└── EP3-Common-Cyber-Attacks.md
-Phase-2-Networking/
-├── EP4-How-Internet-Works.md
-├── EP5-What-is-a-Network.md
-└── ...
 
 ---
 
