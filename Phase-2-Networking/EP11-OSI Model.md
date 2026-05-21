@@ -8,7 +8,6 @@ across a network in 7 layers.
 ## The 7 Layers
 | Layer | Name | What it does |
 |-------|------|--------------|
-
 | 7 | Application | What you see — browser, email |
 | 6 | Presentation | Encryption and formatting |
 | 5 | Session | Opens and closes connections |
